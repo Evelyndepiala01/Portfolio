@@ -1,0 +1,90 @@
+body {
+    background-color: #000000;
+    color: #CFCFCF;  
+}
+
+
+a {
+    text-decoration: none;
+    color: #CFCFCF;
+
+}
+
+a:hover {
+   color: #FFFF00;
+   transition: 1s;
+}
+
+.lotus {
+    height: 15rem;
+    width: 15rem;
+}
+
+.nav-item {
+    padding: 1rem;
+}
+
+.perfil {
+   width: 40vh;
+   height: 40vh;
+   padding-top: 2rem;
+  
+   
+}
+
+.git {
+    width: 5rem;
+    height: 5rem;
+}
+
+.text {
+   padding-top: 2rem;
+   padding-bottom: 2rem;
+   border-bottom: 1px solid yellow;
+}
+
+.container {
+    margin-top: 1rem;
+}
+
+.container img {
+    width: 12rem;
+    height: 12rem;  
+}
+
+
+.post   {
+    border-bottom: 1px solid yellow;
+    padding-bottom: 10rem; 
+}
+
+.blockquote {
+    font-size: 1.6rem;
+    color: #000000;
+
+}
+
+footer {
+   padding-top: 5rem;
+   padding-bottom: 5rem;
+   height: 30vh;
+}
+
+.footer:last-child {
+   margin-top: 2rem;
+}
+
+.footer {
+    padding-top: 5rem;
+    padding-bottom: .2rem;
+}
+
+.icon:first-child {
+    padding-top: 6rem;
+    padding: .3rem;
+}
+
+
+
+
+
